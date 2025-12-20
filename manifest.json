@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Takiacademy File Renamer",
+  "version": "1.0",
+  "description": "Renames downloaded files from Takiacademy by trimming before the first underscore.",
+  "permissions": [
+    "downloads"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
