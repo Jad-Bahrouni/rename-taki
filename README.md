@@ -12,7 +12,7 @@ Files downloaded from Takiacademy often have random prefixes in their filenames,
 This extension automatically removes everything before the first underscore, resulting in clean filenames:
 - `math1.pdf`
 - `physics.pdf`
-- `notes.docx`
+- `notes.docx` 
 
 ## Features
 
@@ -45,4 +45,5 @@ Once installed, the extension works automatically. Simply download files from Ta
 ## License
 
 MIT License - feel free to use and modify as needed.
+
 
